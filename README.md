@@ -1,0 +1,2 @@
+# angular_django_app
+angular_django_app
